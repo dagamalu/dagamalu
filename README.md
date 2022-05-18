@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malu
-- 👀 I’m interested in data analysis, machine learing, Cardiac Imaging with AI, data, data, data ..
-- 🌱 I’m currently learning more Phyton for deep learning 
+- 👀 I’m interested in data analysis, machine learning, Medical image analysis with AI, knowledge extraction, pattern recognition, AI applied for real problems...
+- 🌱 I’m currently learning Phyton  
 - 💞️ I’m looking to collaborate on applications of machine learning supporting medical related task ...
 - 📫 How to reach me ... twitt-me @maluisita
 
