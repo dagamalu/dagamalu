@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 I am an exper in the integration and adaptation of AI solutions (data analysis, machine learning, Medical image analysis with AI, knowledge extraction, pattern recognition..) for applications into the healthcare area
+- 👀 I am an expert in AI, with focus on the integration and adaptation of AI general approaches (data analysis, machine learning, Medical image analysis with AI, knowledge extraction, pattern recognition..) into the healthcare area
 - - 📫 How to reach me ... bluesky @drmGarciaAppliedAI
 
 <!---
